@@ -2,7 +2,7 @@
 
 /.vscode
 /config/keys_dev.js
-/config/keyfiles
+/config/keyfiles/*
 /node_modules
 
 /cmd.bat
