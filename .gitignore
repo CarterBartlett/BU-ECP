@@ -1,0 +1,14 @@
+.gcloudignore
+
+/.vscode
+/config/keys_dev.js
+/config/keyfiles
+/node_modules
+
+/cmd.bat
+/install-dependencies.bat
+/start-dev-server.bat
+
+/client/node_modules
+/client/src/setupProxy.js
+/client/build

@@ -1,0 +1,12 @@
+runtime: nodejs8
+instance_class: F1
+automatic_scaling:
+  max_instances: 1
+
+env_variables:
+  GOOGLE_CLIENT_ID: "680164844874-bf5hbg4rl6u39nue6ifa296iojk16goa.apps.googleusercontent.com"
+  GOOGLE_CLIENT_SECRET: "lwbCzZP2LXsVG459BinuKFCn"
+  GOOGLE_KEYFILE_NAME: "bournemouth-ecp-ac3443249d14.json"
+  GOOGLE_PROJECT_ID: "bournemouth-ecp"
+  GOOGLE_BUCKET_NAME: "bournemouth-ecp.appspot.com"
+  COOKIE_KEY: "zI2a#W$PjRW1m9c3C&RRw^67$PMHI%@u"
